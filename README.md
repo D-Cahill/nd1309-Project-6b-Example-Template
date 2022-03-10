@@ -151,4 +151,4 @@ https://rinkeby.etherscan.io/address/0x109960972333a8f58a99287d0d2b42f441cbc3f0
 * Node: v14.17.6
 * Solidity: ^0.4.24
 
-
+![class diagram](project-6/UML/Class.png)
