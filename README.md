@@ -154,7 +154,7 @@ https://rinkeby.etherscan.io/address/0x109960972333a8f58a99287d0d2b42f441cbc3f0
 ## UML Diagrams
 
 #### Class
-![class diagram](project-6/UML/Class Diagram.PNG)
+![class diagram](project-6/UML/"Class Diagram.PNG")
 
 #### Sequence
 ![Sequence diagram](project-6/UML/Sequence.PNG)
